@@ -1,0 +1,6 @@
+{
+  "name": "Арканум · Таро",
+  "description": "Профессиональный символический анализ и расклады Таро по классической системе Райдера — Уэйта (78 карт).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
